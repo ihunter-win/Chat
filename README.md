@@ -63,6 +63,8 @@ async def refresh_msg(nickname, msg_box):
             chat_msgs = chat_msgs[len(chat_msgs) // 2:]
         
         last_idx = len(chat_msgs)
+        
+        /// add some info
 
 if __name__ == "__main__":
     start_server(main, debug=True, port=8080, cdn=False)
