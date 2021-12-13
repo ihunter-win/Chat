@@ -1,1 +1,1 @@
-# Chat to polytech
+# update readme and mainChat.py
